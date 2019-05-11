@@ -10,7 +10,7 @@ namespace TestDrive
     {
         static void Main(string[] args)
         {
-            var t = DataLoggerConverter.Converter.GetLoggerData(@"C:\Users\MORIMOTOS\Desktop\新しいフォルダー (2)\間欠　40℃　最大　Ver.28　3段点火.csv");
+            var t = DataLoggerConverter.Converter.GetLoggerData(@"..\..\..\sample.csv");
         }
     }
 }
