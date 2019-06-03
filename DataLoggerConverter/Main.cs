@@ -177,7 +177,7 @@ namespace DataLoggerConverter
         #region サンプリングタイム
         private ulong _SamplingMs;
         private int myVar;
-
+        private int ccc;
         /// <summary>
         /// サンプリングタイム(ms)
         /// </summary>
